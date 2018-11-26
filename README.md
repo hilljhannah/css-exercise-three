@@ -1,2 +1,2 @@
 # css-exercise-three
-A short exercise done during my apprenticeship for UX/UI Design & Frontend Development utilizing CSS focusing on the box model
+A short exercise completed during my apprenticeship for UX/UI Design & Frontend Development utilizing CSS focusing on the box model
